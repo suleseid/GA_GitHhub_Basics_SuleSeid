@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA_GitHhub_Basics_SuleSeid", "GA_GitHhub_Basics_SuleSeid\GA_GitHhub_Basics_SuleSeid.csproj", "{3BF0AB7A-07F5-4BFB-B2D7-F62FB2641AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF0AB7A-07F5-4BFB-B2D7-F62FB2641AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF0AB7A-07F5-4BFB-B2D7-F62FB2641AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF0AB7A-07F5-4BFB-B2D7-F62FB2641AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF0AB7A-07F5-4BFB-B2D7-F62FB2641AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0609F97A-BFB0-4EDB-813A-485988AE6540}
+	EndGlobalSection
+EndGlobal
